@@ -159,6 +159,6 @@ if __name__ == '__main__':
              s=np.round(protein_high_normalized[-1], decimals=3),
              fontdict={'size': 14})
 
-    plt.savefig('../Plots/Fig1b.png', dpi=300)
+    plt.savefig('../Plots/Fig1b.png', dpi=150)
 
     plt.show()  
